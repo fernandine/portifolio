@@ -4,11 +4,8 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-habilidades',
   templateUrl: './habilidades.component.html'
 })
-export class HabilidadesComponent implements OnInit {
+export class HabilidadesComponent {
 
-  constructor() { }
 
-  ngOnInit() {
-  }
 
 }
